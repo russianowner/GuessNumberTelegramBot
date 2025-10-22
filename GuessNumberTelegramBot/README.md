@@ -43,5 +43,5 @@
 - Install NuGet packages
 - Go to "appsettings.json" there we change the bot token (it can be created in @BotFather)
 - Launch the project, add the bot to the group, or play with it in private messages by writing /start
-- 
+
 ---
